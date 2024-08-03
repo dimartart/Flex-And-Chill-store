@@ -3,6 +3,7 @@
 “Flex and chill “ – student project of a website for selling modern clothes(t-shirts and hoodies) and vapes. This website was built using HTML, CSS and javascript technologies.
 
 **Features**
+
 On the main page(index.html) are displayed all types of goods. If you clicked on the name of a product the personal page of a product will be displayed(product.html).
 
 There is changeable navbar on the page. If you will scroll down it will disappear. If you will start scrolling up, it will appear.
